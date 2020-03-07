@@ -1,4 +1,0 @@
-/home/ft3/Documents/Nextcloud/School/PO1/01_tydzien/build/CMakeFiles/rebuild_cache.dir
-/home/ft3/Documents/Nextcloud/School/PO1/01_tydzien/build/CMakeFiles/edit_cache.dir
-/home/ft3/Documents/Nextcloud/School/PO1/01_tydzien/build/CMakeFiles/wire.dir
-/home/ft3/Documents/Nextcloud/School/PO1/01_tydzien/build/CMakeFiles/exec.dir

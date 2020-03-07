@@ -1,2 +1,0 @@
-/usr/bin/ar qc libwire.a  CMakeFiles/wire.dir/src/wire.cpp.o
-/usr/bin/ranlib libwire.a
